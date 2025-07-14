@@ -1,9 +1,12 @@
 amity
 university
 bangalure 
+Bangalure 
 engineering
 Btech cse
 1st year
 source code
+ece
+python
 added subjects
 ece
