@@ -1,8 +1,13 @@
 amity
 university
-bangalore 
+Bangalure 
 engineering
 source code
+<<<<<<< HEAD
 ece
 python
 
+=======
+added subjects
+ece
+>>>>>>> test01
