@@ -2,6 +2,8 @@ amity
 university
 bangalore 
 engineering
+Btech cse
+1st year
 source code
 added subjects
 ece
