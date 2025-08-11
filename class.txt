@@ -7,6 +7,7 @@ Btech cse
 1st year(second sem)
 source code
 ece
+computer architecture
 python
 added subjects
 ece
