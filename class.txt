@@ -4,7 +4,7 @@ bangalure
 Bangalure 
 engineering
 Btech cse
-1st year
+1st year(second sem)
 source code
 ece
 python
